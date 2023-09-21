@@ -1,7 +1,8 @@
 <html>
-<head> 
-Josh Dale
+  <title> Josh Dale
   Portfolio
+</title>
+<head> 
 </head>
 
 
